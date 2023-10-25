@@ -4,40 +4,28 @@
 <p >2nd year Business Information Systems student at Tampere University of Applied Sciences🎓</p>
 <p>Studying full-stack development! Really interested in cyber secrity aswell😉</p>
 <br>
+<p>On my freetime i love to hit the gym and play some videogames!</p>
+<p>I also love to hoan my skills in different technologies and projects🚀</p>
+</p>Back in the day I used to be a chef so cooking is close to my hearth aswell🍳</p>
+
+<br>
 
 ## 🛠️ Skills 
 
 ### Frontend technologies
 
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="SASS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react)](https://skillicons.dev)
 
-
-<br>
-<br>
 
 ### Backend technologies
 
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="NodeJS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+[![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs,py,mysql)](https://skillicons.dev)
 
-<br>
-<br>
 
 ### Tools 
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-<br>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=github,git,unity,vscode,visualstudio,linux)](https://skillicons.dev)
+
 
 ## 📊Stats
 <br>
