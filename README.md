@@ -1,3 +1,5 @@
+<img align='right' src='https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif' width='300'>
+
 # Hi there! 👋
 
 
