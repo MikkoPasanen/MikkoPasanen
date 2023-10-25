@@ -1,4 +1,6 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there! 👋
+
+
 ## About Me!
 <p>I'm Mikko Pasanen</p>
 <p >2nd year Business Information Systems student at Tampere University of Applied Sciences🎓</p>
