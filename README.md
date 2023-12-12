@@ -8,7 +8,7 @@
 <p >2nd year Business Information Systems student at Tampere University of Applied Sciences🎓</p>
 <p>Studying full-stack development! Really interested in cyber secrity aswell😉</p>
 <br>
-<p>On my freetime i love to hit the gym and play some videogames!</p>
+<p>On my freetime I love to hit the gym and play some videogames!</p>
 <p>I also love to hoan my skills in different technologies and projects🚀</p>
 </p>Back in the day I used to be a chef so cooking is close to my hearth aswell🍳</p>
 
