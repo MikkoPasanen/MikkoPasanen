@@ -26,6 +26,12 @@
 [![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs,py,mysql)](https://skillicons.dev)
 
 
+### Mobile development
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+
+
+
 ### Tools 
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,unity,vscode,visualstudio,linux)](https://skillicons.dev)
