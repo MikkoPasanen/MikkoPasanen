@@ -28,7 +28,7 @@
 
 ### Mobile development
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,flutter)](https://skillicons.dev)
 
 
 
