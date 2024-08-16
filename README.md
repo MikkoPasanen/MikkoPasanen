@@ -1,8 +1,6 @@
 <img align='right' src='https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif' width='300'>
 
 # Hi there! 👋
-
-
 ## About Me!
 <p>I'm Mikko Pasanen</p>
 <p >3rd year Business Information Systems student at Tampere University of Applied Sciences🎓</p>
@@ -12,7 +10,6 @@
 <p>I also love to hoan my skills in different technologies and projects🚀</p>
 </p>Back in the day I used to be a chef so cooking is close to my hearth aswell🍳</p>
 
-<br>
 
 ## 🛠️ Skills 
 
@@ -33,44 +30,127 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,docker,unity,vscode,visualstudio,linux,windows)](https://skillicons.dev)
 
-## Projects
+<br>
+
+## 💼 Projects - Portfolio
 
 ### Learn languages app
 <a href="https://github.com/MikkoPasanen/learn-languages">Learn more here!</a>
-<p>A fullstack web app meant to help people learn languages easily! Contains authorization, frontend, backend, database, responsive and intuitive UI, all warpped with docker and deployed to Render.com!</p>
-<b>NOTE! The app is currently unusable due to the database used in the project being shut down :(</b>
-
-
+<p>
+  A fullstack web app meant to help people learn languages easily! Contains authorization, frontend, backend, database, responsive and intuitive UI, all warpped with docker and deployed to cloud!
+</p>
+<b>NOTE! The app is currently unusable due to the database server used in the project being shut down :(</b>
 <br>
-<br>
+
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node-black?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mui-black?style=for-the-badge&logo=mui&logoColor=white&color=%23007FFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/render-black?style=for-the-badge&logo=render&logoColor=white&color=%23000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+</p>
+
+<hr width="100%" size="3" color="white" noshade>
 
 
 ### Time tracker
 <a href="https://github.com/MikkoPasanen/time-tracker">Learn more here!</a>
-<p>A simple and clean time tracking app made with react and json-server! Create tasks and start tracking time for each one of them, even if the app is closed!</p>
+<p>
+  A simple and clean time tracking app made with react and json-server! Create tasks and start tracking time for each one of them, even if the app is closed!
+</p>
 
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=white&color=%23000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+</p>
 
-<br>
-<br>
+<hr width="100%" size="3" color="white" noshade>
 
+### Android weather app
+<a href="#">Learn more here!</a>
+<p>
+  Clean weather app build natively for android devices with modern techniques. By default it shows the weather for the users current location, but there is a search city option. Displays current weather, next 24 hours and next 7 days with detailed information page for each day.
+</p>
 
-### Pint rush
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white&color=%237F52FF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jetpack%20compose-black?style=for-the-badge&logo=jetpackcompose&logoColor=white&color=%234285F4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/android-black?style=for-the-badge&logo=android&logoColor=white&color=%2334A853">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+</p>
 
-<br>
-<br>
+<hr width="100%" size="3" color="white" noshade>
 
+### Pint Rush
+<a href="https://github.com/MikkoPasanen/GameProject">Learn more here!</a>
+<a href="https://webpages.tuni.fi/22tiko3d/">To the games website!</a>
+<p>
+  Step into the shoes of a bartender in "Pint Rush," a fast paced mobile game designed to promote Narvan kyläpanimo, located near Tampere, Finland. As the bartender, your mission is to serve an ever-increasing number of customers their favorite drinks!
+<br> 
+  <br>
+  This project was made with a team of 4 people, utilizing Scrum project management framework. The team included 1 scrum master, 1 artist and 2 programmers, one of them being me.
+</p>
+<b>Pint Rush is available on Google Play!</b>
+<a href="https://github.com/MikkoPasanen/time-tracker">Download from here!</a>
 
-### Weather app
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&color=823085">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+</p>
 
-
-<br>
-<br>
+<hr width="100%" size="3" color="white" noshade>
 
 ### Bus stop announcer
+<a href="https://github.com/MikkoPasanen/bus-stop-synthesis">Learn more here!</a>
+<p>
+  Website deployed to cloud (mainly made for mobile devices) where you can can get voice notifications when you travel with Tampere regional transport! The way it works is as follows:
+  <ol>
+    <li>Jump into a bus (or tram) in Tampere</li>
+    <li>Open the website and enter the line you are in</li>
+    <li>The app will find your location and connect you to the closest bus of the selected line (most likely the bus you are in)</li>
+    <li>Now the app will track the bus actively and will give you text-to-speech voice notification of the next upcoming stop. For example "Seuraavana, Kaleva B"</li>
+    <li>When you are done with your trip, just press a button and you are done! :)</li>
+  </ol>
+</p>
 
-<br>
+<b>NOTE! The app is currently unusable due to the database server used in the project being shut down, meaning all Tampere regional transport data was lost :(</b>
+
+
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white&color=%233776AB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node-black?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mui-black?style=for-the-badge&logo=mui&logoColor=white&color=%23007FFF">
+</p>
+
+<hr width="100%" size="3" color="white" noshade>
 
 ### Chef quiz
+<a href="https://github.com/MikkoPasanen/Chef-quiz">Learn more here!</a> <br>
+<a href="https://mikkopasanen.github.io/Chef-quiz/">To the website</a>
+<p>
+  Simple website made with vanilla web techniques, deployed to Github pages where you can test your kitchen skills by answering a set of random questions related to cooking! Let's see if have the basic information down ;)
+</p>
+
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
+  <img alt="Static Badge" src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E">
+</p>
+
+<hr width="100%" size="3" color="white" noshade>
 
 ## 📊Stats
 <br>
