@@ -72,7 +72,7 @@
 <hr width="100%" size="3" color="white" noshade>
 
 ### Android weather app
-<a href="#">Learn more here!</a>
+<a href="https://github.com/MikkoPasanen/android-weather-app">Learn more here!</a>
 <p>
   Clean weather app build natively for android devices with modern techniques. By default it shows the weather for the users current location, but there is a search city option. Displays current weather, next 24 hours and next 7 days with detailed information page for each day.
 </p>
