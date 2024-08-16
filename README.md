@@ -142,7 +142,7 @@
 <a href="https://github.com/MikkoPasanen/Chef-quiz">Learn more here!</a> <br>
 <a href="https://mikkopasanen.github.io/Chef-quiz/">To the website</a>
 <p>
-  Simple website made with vanilla web techniques, deployed to Github pages where you can test your kitchen skills by answering a set of random questions related to cooking! Let's see if have the basic information down ;)
+  Simple website made with vanilla web techniques, deployed to Github pages where you can test your kitchen skills by answering a set of random questions related to cooking! Let's see if you have the basic kitchen information down ;)
 </p>
 
 ### Techs used
