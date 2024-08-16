@@ -132,6 +132,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1">
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
   <img alt="Static Badge" src="https://img.shields.io/badge/Mui-black?style=for-the-badge&logo=mui&logoColor=white&color=%23007FFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+
 </p>
 
 <hr width="100%" size="3" color="white" noshade>
@@ -149,6 +151,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E">
   <img alt="Static Badge" src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white&color=%23CC6699">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
 </p>
 
 <hr width="100%" size="3" color="white" noshade>
