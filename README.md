@@ -88,7 +88,7 @@
 <hr width="100%" size="3" color="white" noshade>
 
 ### Pint Rush
-<a href="https://github.com/MikkoPasanen/GameProject">Learn more here!</a>
+<a href="https://github.com/MikkoPasanen/GameProject">Learn more here!</a> <br>
 <a href="https://webpages.tuni.fi/22tiko3d/">To the games website!</a>
 <p>
   Step into the shoes of a bartender in "Pint Rush," a fast paced mobile game designed to promote Narvan kyläpanimo, located near Tampere, Finland. As the bartender, your mission is to serve an ever-increasing number of customers their favorite drinks!
@@ -97,7 +97,7 @@
   This project was made with a team of 4 people, utilizing Scrum project management framework. The team included 1 scrum master, 1 artist and 2 programmers, one of them being me.
 </p>
 <b>Pint Rush is available on Google Play!</b>
-<a href="https://github.com/MikkoPasanen/time-tracker">Download from here!</a>
+<a href="https://play.google.com/store/apps/details?id=com.SecretDamStudios.PintRush&hl=en">Download from here!</a>
 
 ### Techs used
 <p>
