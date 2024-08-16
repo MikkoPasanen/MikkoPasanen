@@ -148,6 +148,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
   <img alt="Static Badge" src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white&color=%23CC6699">
 </p>
 
 <hr width="100%" size="3" color="white" noshade>
