@@ -108,6 +108,28 @@
 
 <hr width="100%" size="3" color="white" noshade>
 
+### Citybike journeys
+<a href="https://github.com/MikkoPasanen/citybike">Learn more here!</a>
+<b>NOTE! Work in progress!</b>
+<p>
+  A fullstack web app for displaying data from journeys made with city bikes in the Helsinki Capital area. <br>
+  This project is Solita dev academys pre-assignment, but I also wanted to try out new technologies such as Spring Boot and Typescript so this project is good practice :)
+</p>
+
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=%236DB33F&color=%236DB33F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Shadcn-black?style=for-the-badge&logo=shadcn%2Fui&logoColor=white&labelColor=%23000000&color=%23000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+
+</p>
+
+<hr width="100%" size="3" color="white" noshade>
+
 ### Bus stop announcer
 <a href="https://github.com/MikkoPasanen/bus-stop-synthesis">Learn more here!</a>
 <p>
@@ -121,7 +143,7 @@
   </ol>
 </p>
 
-<b>NOTE! The app is currently unusable due to the database server used in the project being shut down, meaning all Tampere regional transport data was lost :(</b>
+<b>NOTE! The app is currently unusable due to the database server used in the project being shut down :(</b>
 
 
 ### Techs used
