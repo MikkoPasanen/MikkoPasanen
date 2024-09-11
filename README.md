@@ -120,6 +120,7 @@
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=%236DB33F&color=%236DB33F">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=%233178C6">
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
   <img alt="Static Badge" src="https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1">
   <img alt="Static Badge" src="https://img.shields.io/badge/Shadcn-black?style=for-the-badge&logo=shadcn%2Fui&logoColor=white&labelColor=%23000000&color=%23000000">
