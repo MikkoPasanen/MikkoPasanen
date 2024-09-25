@@ -179,6 +179,21 @@
 
 <hr width="100%" size="3" color="white" noshade>
 
+### Fuel analytics
+<b>NOTE! Work in progress!</b>
+<a href="https://github.com/MikkoPasanen/fuel_analytics">Learn more here!</a> <br>
+<p>
+  Simple and quick project for analyzing fuel prices in different categories across Finland using Python. <br/>
+  In the future, there will be a comprehensive report about the subject and also some charts for visual representation!
+</p>
+
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB">
+</p>
+
+<hr width="100%" size="3" color="white" noshade>
+
 ## 📊Stats
 <br>
 
