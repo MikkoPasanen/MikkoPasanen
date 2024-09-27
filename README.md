@@ -132,8 +132,8 @@
 <hr width="100%" size="3" color="white" noshade>
 
 ### Bus stop announcer
-<a href="https://github.com/MikkoPasanen/bus-stop-synthesis">Learn more here!</a>
-<a href="https://bus-stop-synthesis.onrender.com">Live here! (Loading may take a while)</a>
+<a href="https://github.com/MikkoPasanen/bus-stop-synthesis">Learn more here!</a> </br>
+<a href="https://bus-stop-synthesis.onrender.com">Live here!</a> (Loading may take a while) </br>
 <b>NOTE! The app is currently unusable due to the database server used in the project being shut down :( but the UI still works!</b>
 <p>
   Website deployed to cloud (mainly made for mobile devices) where you can can get voice notifications when you travel with Tampere regional transport! The way it works is as follows:
