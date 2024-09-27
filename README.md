@@ -10,10 +10,10 @@
 <p>I also love to hoan my skills in different technologies and projects🚀</p>
 </p>Back in the day I used to be a chef so cooking is close to my hearth aswell🍳</p>
 
-### Table of contents
+### Table of Contents
 1. [About Me](#about-me)
-2. [Skills](#skills)
-3. [Projects - Portfolio](#projects---portfolio)
+2. [Skills](#🛠️-skills)
+3. [Projects - Portfolio](#-projects---portfolio)
     - [Learn languages app](#learn-languages-app)
     - [Time tracker](#time-tracker)
     - [Android weather app](#android-weather-app)
@@ -22,7 +22,7 @@
     - [Bus stop announcer](#bus-stop-announcer)
     - [Chef quiz](#chef-quiz)
     - [Fuel analytics](#fuel-analytics)
-4. [Stats](#stats)
+4. [Stats](#📊stats)
 
 ---
 ## 🛠️ Skills 
