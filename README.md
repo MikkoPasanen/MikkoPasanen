@@ -10,7 +10,21 @@
 <p>I also love to hoan my skills in different technologies and projects🚀</p>
 </p>Back in the day I used to be a chef so cooking is close to my hearth aswell🍳</p>
 
+### Table of contents
+1. [About Me](#about-me)
+2. [Skills](#skills)
+3. [Projects - Portfolio](#projects---portfolio)
+    - [Learn languages app](#learn-languages-app)
+    - [Time tracker](#time-tracker)
+    - [Android weather app](#android-weather-app)
+    - [Pint Rush](#pint-rush)
+    - [Citybike journeys](#citybike-journeys)
+    - [Bus stop announcer](#bus-stop-announcer)
+    - [Chef quiz](#chef-quiz)
+    - [Fuel analytics](#fuel-analytics)
+4. [Stats](#stats)
 
+---
 ## 🛠️ Skills 
 
 ### Frontend technologies
@@ -198,7 +212,10 @@
 ## 📊Stats
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkoPasanen&show_icons=true&theme=radical)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MikkoPasanen&layout=compact&theme=radical' height='200px'>
+<img src='https://github-readme-stats.vercel.app/api?username=MikkoPasanen&show_icons=true&theme=radical'>
+
+
 
 <!--
 **MikkoPasanen/MikkoPasanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
