@@ -12,7 +12,7 @@
 
 ### Table of Contents
 1. [About Me](#about-me)
-2. [Skills](#-skills)
+2. [Skills](#--skills)
 3. [Projects - Portfolio](#-projects---portfolio)
     - [Learn languages app](#learn-languages-app)
     - [Time tracker](#time-tracker)
@@ -22,7 +22,7 @@
     - [Bus stop announcer](#bus-stop-announcer)
     - [Chef quiz](#chef-quiz)
     - [Fuel analytics](#fuel-analytics)
-4. [Stats](#📊stats)
+4. [Stats](#stats)
 
 ---
 ## 🛠️ Skills 
