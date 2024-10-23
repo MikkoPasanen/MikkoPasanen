@@ -91,6 +91,7 @@
 <p>
   Clean weather app build natively for android devices with modern techniques. By default it shows the weather for the users current location, but there is a search city option. Displays current weather, next 24 hours and next 7 days with detailed information page for each day.
 </p>
+<p><a href="https://www.youtube.com/watch?v=WRMiBSPdSBc">Link</a> to youtube screencast of the app</p>
 
 ### Techs used
 <p>
