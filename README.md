@@ -54,6 +54,7 @@
   A fullstack web app meant to help people learn languages easily! Contains authorization, frontend, backend, database, responsive and intuitive UI, all warpped with docker and deployed to cloud!
 </p>
 <b>NOTE! The app is currently unusable due to the database server used in the project being shut down :(</b>
+<p>But <a href="https://www.youtube.com/watch?v=V8y07bfViWg">here</a> is a link to a screencast of the app when it was working! (only in Finnish)</p>
 <br>
 
 ### Techs used
