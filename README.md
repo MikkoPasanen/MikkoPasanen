@@ -57,11 +57,9 @@ Live on <a href="http://frontend-696896399.eu-north-1.elb.amazonaws.com/">AWS</a
 <p>
   Provides recommendations for the best possible HEMS (home energy management system) app(s) based on the inputted hardwares! </br>
 <br> 
-  <br>
   This project is made with a team of 10 people, utilizing Scrum project management framework. 
 </p>
-<b>Pint Rush is available on Google Play!</b>
-<a href="https://play.google.com/store/apps/details?id=com.SecretDamStudios.PintRush&hl=en">Download from here!</a>
+
 
 ### Techs used
 <p>
