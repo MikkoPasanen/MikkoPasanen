@@ -14,6 +14,8 @@
 1. [About Me](#about-me)
 2. [Skills](#skills)
 3. [Projects - Portfolio](#-projects---portfolio)
+   
+    - [EnerWeave](#EnerWeave)
     - [Learn languages app](#learn-languages-app)
     - [Time tracker](#time-tracker)
     - [Android weather app](#android-weather-app)
@@ -22,7 +24,7 @@
     - [Bus stop announcer](#bus-stop-announcer)
     - [Chef quiz](#chef-quiz)
     - [Fuel analytics](#fuel-analytics)
-4. [Stats](#stats)
+5. [Stats](#stats)
 
 ---
 ## 🛠️ Skills 
@@ -47,6 +49,31 @@
 <br>
 
 ## 💼 Projects - Portfolio
+
+### EnerWeave
+<b>Work in progress!</b> <br>
+<a href="https://github.com/MikkoPasanen/enerweave">Learn more here!</a> <br>
+Live on <a href="http://frontend-696896399.eu-north-1.elb.amazonaws.com/">AWS</a> </br>
+<p>
+  Provides recommendations for the best possible HEMS (home energy management system) app(s) based on the inputted hardwares! </br>
+<br> 
+  <br>
+  This project is made with a team of 10 people, utilizing Scrum project management framework. 
+</p>
+<b>Pint Rush is available on Google Play!</b>
+<a href="https://play.google.com/store/apps/details?id=com.SecretDamStudios.PintRush&hl=en">Download from here!</a>
+
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=%236DB33F&color=%236DB33F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon%20web%20services&logoColor=black&labelColor=orange&color=orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+</p>
+
+<hr width="100%" size="3" color="white" noshade>
 
 ### Learn languages app
 <a href="https://github.com/MikkoPasanen/learn-languages">Learn more here!</a>
