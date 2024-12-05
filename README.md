@@ -51,14 +51,19 @@
 ## 💼 Projects - Portfolio
 
 ### EnerWeave
-<b>Work in progress!</b> <br>
-<a href="https://github.com/MikkoPasanen/enerweave">Learn more here!</a> <br>
-Live on <a href="http://frontend-696896399.eu-north-1.elb.amazonaws.com/">AWS</a> </br>
 <p>
-  Provides recommendations for the best possible HEMS (home energy management system) app(s) based on the inputted hardwares! </br>
-<br> 
-  This project is made with a team of 10 people, utilizing Scrum project management framework. 
+  Provides recommendations for the best possible HEMS (home energy management system) app(s) based on the inputted hardwares!
+  </br> 
+  </br> 
+  Wouldn't it be cool and easy to be able to control multiple appliances at once with the same software? Well, EnerWeave helps you with this!
+  </br> 
+  Let's say you have Heatpump from Mitsubishi, Solarpanels from Panasonic and ECS from Wallbox, you input these into EnerWeave and then EnerWeave recommends you HEMS(s) that could suit your needs :)
+<br>
+</br> 
+  This project is made with an international team of 10 people, utilizing Scrum project management and AWS's "Working backwards" method</br> 
+  EnerWeave was developed for <a href="https://spine.energy/">Spine energy</a> to help them and then again help normal citiziens to tackle energy costs and regulations!
 </p>
+As of now, the project is closed source and still in development, BUT I can show you some pictures and better description <a href="https://github.com/MikkoPasanen/enerweave">here!</a> :)
 
 
 ### Techs used
