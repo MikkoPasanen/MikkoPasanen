@@ -36,7 +36,7 @@
 
 ### Backend technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs,spring,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs,spring,py,mysql,postgres)](https://skillicons.dev)
 
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
