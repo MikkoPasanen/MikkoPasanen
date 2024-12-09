@@ -81,7 +81,7 @@ As of now, the project is closed source and still in development, BUT I can show
 ### Learn languages app
 <a href="https://github.com/MikkoPasanen/learn-languages">Learn more here!</a>
 <p>
-  A fullstack web app meant to help people learn languages easily! Contains authorization, frontend, backend, database, responsive and intuitive UI, all warpped with docker and deployed to cloud!
+  A fullstack web app meant to help people learn languages easily! Contains authentication and authorization, frontend, backend, database, responsive and intuitive UI, all warpped with docker and deployed to cloud!
 </p>
 <b>NOTE! The app is currently unusable due to the database server used in the project being shut down :(</b>
 <p>But <a href="https://www.youtube.com/watch?v=V8y07bfViWg">here</a> is a link to a screencast of the app when it was working! (only in Finnish)</p>
