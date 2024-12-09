@@ -38,6 +38,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs,spring,py,mysql)](https://skillicons.dev)
 
+### Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 ### Mobile development
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,swift,flutter)](https://skillicons.dev)
