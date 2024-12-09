@@ -3,7 +3,7 @@
 # Hi there! 👋
 ## About Me!
 <p>I'm Mikko Pasanen</p>
-<p >3rd year Business Information Systems student at Tampere University of Applied Sciences🎓</p>
+<p >3rd year software development student at Tampere University of Applied Sciences🎓</p>
 <p>Full-stack, mobile development, cyber security... I love them all! My passion is to build apps with security in mind that will solve real complex (or why not simple) problems.</p>
 <br>
 <p>On my freetime I love to hit the gym, do martital arts and play some videogames!</p>
