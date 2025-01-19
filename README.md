@@ -14,7 +14,8 @@
 1. [About Me](#about-me)
 2. [Skills](#skills)
 3. [Projects - Portfolio](#-projects---portfolio)
-   
+
+    - [Chatter](#Chatter)
     - [EnerWeave](#EnerWeave)
     - [Learn languages app](#learn-languages-app)
     - [Time tracker](#time-tracker)
@@ -31,7 +32,7 @@
 
 ### Frontend technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,sass,react,vue)](https://skillicons.dev)
 
 
 ### Backend technologies
@@ -40,6 +41,7 @@
 
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
 ### Mobile development
 
@@ -52,6 +54,27 @@
 <br>
 
 ## 💼 Projects - Portfolio
+
+### Chatter
+<a href="https://github.com/MikkoPasanen/chatter">Learn more here!</a> <br>
+<a href="https://chatter-front.icyforest-5106bef0.northeurope.azurecontainerapps.io/login">Try it out here!</a>
+<p>
+  Live chat application using websocket. 
+</p>
+
+
+### Techs used
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=%236DB33F&color=%236DB33F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure%20web%20services&logoColor=black&color=0078D4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss%20web%20services&logoColor=black&color=06B6D4">
+</p>
+
+<hr width="100%" size="3" color="white" noshade>
 
 ### EnerWeave
 <p>
