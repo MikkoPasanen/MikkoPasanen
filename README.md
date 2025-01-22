@@ -59,7 +59,8 @@
 <a href="https://github.com/MikkoPasanen/chatter">Learn more here!</a> <br>
 <a href="https://chatter-front.icyforest-5106bef0.northeurope.azurecontainerapps.io/login">Try it out here!</a>
 <p>
-  Live chat application using websocket. 
+  Live chat application using websocket. <br>
+Contains secure software development best practices. CI/CD pipeline to Microsoft Azure and strong authentication / authorization mechanism.
 </p>
 
 
