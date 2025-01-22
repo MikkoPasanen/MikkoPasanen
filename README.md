@@ -78,6 +78,8 @@
 <hr width="100%" size="3" color="white" noshade>
 
 ### EnerWeave
+<a href="http://enerweave-510155273.eu-north-1.elb.amazonaws.com/">Try it out here!</a>
+
 <p>
   Provides recommendations for the best possible HEMS (home energy management system) app(s) based on the inputted hardwares!
   </br> 
