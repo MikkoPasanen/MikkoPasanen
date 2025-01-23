@@ -257,7 +257,6 @@ As of now, the project is closed source and still in development, BUT I can show
 <hr width="100%" size="3" color="white" noshade>
 
 ### Fuel analytics
-<b>NOTE! Work in progress!</b>
 <a href="https://github.com/MikkoPasanen/fuel_analytics">Learn more here!</a> <br>
 <p>
   Simple and quick project for analyzing fuel prices in different categories across Finland using Python. <br/>
