@@ -56,6 +56,7 @@
 ## 💼 Projects - Portfolio
 
 ### Chatter
+<b>Note! Work in progress!</b><br>
 <a href="https://github.com/MikkoPasanen/chatter">Learn more here!</a> <br>
 <a href="https://chatter-front.icyforest-5106bef0.northeurope.azurecontainerapps.io/login">Try it out here!</a>
 <p>
