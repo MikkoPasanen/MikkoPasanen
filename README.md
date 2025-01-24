@@ -35,7 +35,7 @@ Here you can find the technologies what I've used over the years
 
 ### Frontend technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,sass,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,sass,react,vue,threejs)](https://skillicons.dev)
 
 
 ### Backend technologies
@@ -52,7 +52,7 @@ Here you can find the technologies what I've used over the years
 
 ### Tools / Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,git,bash,docker,unity,vscode,visualstudio,idea,androidstudio,linux,windows,gradle,maven,npm&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,git,bash,docker,unity,vscode,visualstudio,idea,androidstudio,linux,windows,gradle,maven,npm,postman&perline=6)](https://skillicons.dev)
 
 <br>
 
