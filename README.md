@@ -72,7 +72,7 @@ TBA
 ### SyncSpeak
 <b>Note! Work in progress!</b><br>
 <a href="https://github.com/MikkoPasanen/syncspeak">Learn more here!</a> <br>
-<a href="https://chatter-front.icyforest-5106bef0.northeurope.azurecontainerapps.io/login">Try it out here!</a>
+<a href="https://syncspeak.blackrock-52ee4819.northeurope.azurecontainerapps.io">Try it out here!</a>
 <p>
   Live chat / call application using Websocket and WebRTC. <br>
 Contains secure software development best practices. CI/CD pipeline to Microsoft Azure and strong authentication / authorization mechanism.
