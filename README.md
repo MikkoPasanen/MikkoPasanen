@@ -16,7 +16,7 @@
 3. [Projects - Portfolio](#-projects---portfolio)
 
     - [Thesis](#Thesis)
-    - [Chatter](#Chatter)
+    - [SyncSpeak](#SyncSpeak)
     - [EnerWeave](#EnerWeave)
     - [Learn languages app](#learn-languages-app)
     - [Time tracker](#time-tracker)
@@ -69,12 +69,12 @@ TBA
 
 <hr width="100%" size="3" color="white" noshade>
 
-### Chatter
+### SyncSpeak
 <b>Note! Work in progress!</b><br>
-<a href="https://github.com/MikkoPasanen/chatter">Learn more here!</a> <br>
+<a href="https://github.com/MikkoPasanen/syncspeak">Learn more here!</a> <br>
 <a href="https://chatter-front.icyforest-5106bef0.northeurope.azurecontainerapps.io/login">Try it out here!</a>
 <p>
-  Live chat application using websocket. <br>
+  Live chat / call application using Websocket and WebRTC. <br>
 Contains secure software development best practices. CI/CD pipeline to Microsoft Azure and strong authentication / authorization mechanism.
 </p>
 
