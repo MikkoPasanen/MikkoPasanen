@@ -15,6 +15,7 @@
 2. [Skills](#skills)
 3. [Projects - Portfolio](#-projects---portfolio)
 
+    - [Thesis](#Thesis)
     - [Chatter](#Chatter)
     - [EnerWeave](#EnerWeave)
     - [Learn languages app](#learn-languages-app)
@@ -54,6 +55,17 @@
 <br>
 
 ## 💼 Projects - Portfolio
+
+### Thesis
+<b>Note! Currently in only planning stage</b><br>
+<p>
+    For my thesis work, me and my classmate are tasked to create a lightweight warehouse management system (WMS) / maintenance card application for <a href="https://pns.fi/jatesal/">Jatesal Oy</a>
+</p>
+
+### Techs used
+TBA
+
+<hr width="100%" size="3" color="white" noshade>
 
 ### Chatter
 <b>Note! Work in progress!</b><br>
