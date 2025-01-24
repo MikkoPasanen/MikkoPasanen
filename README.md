@@ -52,7 +52,7 @@ Here you can find the technologies what I've used over the years
 
 ### Tools / Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,git,bash,docker,unity,vscode,visualstudio,idea,androidstudio,linux,windows,gradle,maven&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,git,bash,docker,unity,vscode,visualstudio,idea,androidstudio,linux,windows,gradle,maven,npm&perline=6)](https://skillicons.dev)
 
 <br>
 
