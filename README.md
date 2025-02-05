@@ -61,7 +61,7 @@ Here you can find the technologies what I've used over the years
 ### Thesis
 <b>Note! Currently in only planning stage</b><br>
 <p>
-    For my thesis work, me and my classmate are tasked to create a lightweight warehouse management system (WMS) / maintenance card application for <a href="https://pns.fi/jatesal/">Jatesal Oy</a>
+    For my thesis work, me and my classmate are tasked to create a lightweight warehouse management system (WMS) / digital maintenance card application for <a href="https://pns.fi/jatesal/">Jatesal Oy</a>
 </p>
 
 ### Techs used
