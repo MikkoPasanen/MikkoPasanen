@@ -10,6 +10,8 @@
 <p>I also love to hoan my skills in different technologies and projects🚀</p>
 </p>Back in the day I used to be a chef so cooking is close to my hearth aswell🍳</p>
 
+<b>Currently working on my thesis!</b>
+
 ### Table of Contents
 1. [About Me](#about-me)
 2. [Skills](#skills)
@@ -59,13 +61,23 @@ Here you can find the technologies what I've used over the years
 ## 💼 Projects - Portfolio
 
 ### Thesis
-<b>Note! Currently in only planning stage</b><br>
+<b>Currently under development</b><br>
 <p>
     For my thesis work, me and my classmate are tasked to create a lightweight warehouse management system (WMS) / digital maintenance card application for <a href="https://pns.fi/jatesal/">Jatesal Oy</a>
+    to transfer their ways of doing these things physically in three different locations in Finland, under one centralized digital system.
 </p>
 
 ### Techs used
-TBA
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white&color=%237F52FF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=%236DB33F&color=%236DB33F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=%233178C6">
+  <img alt="Static Badge" src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure%20web%20services&logoColor=black&color=0078D4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032">
+</p>
 
 <hr width="100%" size="3" color="white" noshade>
 
